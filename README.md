@@ -70,26 +70,22 @@ mvn spring-boot:run
 | 🚀 Future | Event analytics dashboard |
 
 ## ⭐ Appreciation
-
 If this project helped you or inspired you,
 please star ⭐ the repository — it really motivates!
 ---
 
 ## 💬 Support
 If you face issues, feel free to open:
-🐞 Bug report
-💡 Feature request
-❓ Question discussion
-
----
+. 🐞 Bug report
+.  💡 Feature request
+. ❓ Question discussion
 
 ## 🤝 Contributing
-
 🙌 Contributions welcome!
-Fork the repository
-Create a feature branch
-Commit changes
-Submit Pull Request
+. Fork the repository
+.  Create a feature branch
+. Commit changes
+. Submit Pull Request
 
 ---
 Made with ❤️ using Spring Boot + Flutter
