@@ -1,4 +1,4 @@
-package com.ankit.tickets.domain;
+package com.ankit.tickets.domain.entities;
 
 public enum EventStatusEnum {
     DRAFT, PUBLISHED, CANCELLED, COMPLETED

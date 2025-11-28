@@ -1,12 +1,11 @@
 package com.ankit.tickets.filters;
 
-import com.ankit.tickets.domain.User;
+import com.ankit.tickets.domain.entities.User;
 import com.ankit.tickets.repositories.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

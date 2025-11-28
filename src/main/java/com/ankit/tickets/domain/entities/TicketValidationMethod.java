@@ -1,4 +1,4 @@
-package com.ankit.tickets.domain;
+package com.ankit.tickets.domain.entities;
 
 public enum TicketValidationMethod {
     QR_SCAN,MANUAL

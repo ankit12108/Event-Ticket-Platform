@@ -1,4 +1,4 @@
-package com.ankit.tickets.domain;
+package com.ankit.tickets.domain.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
