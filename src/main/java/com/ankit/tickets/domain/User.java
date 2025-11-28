@@ -17,7 +17,6 @@ import java.util.UUID;
 @Setter
 @NoArgsConstructor
 @AllArgsConstructor
-@Builder
 public class User {
     @Id
     @Column(name = "id", updatable = false,nullable = false)
@@ -31,6 +30,7 @@ public class User {
 
     @OneToMany(mappedBy = "organizer", cascade = CascadeType.ALL)
     private List<Event> organizedEvents = new ArrayList<>();
+
     @ManyToMany
     @JoinTable(
             name = "user_attending_events",
@@ -38,6 +38,7 @@ public class User {
             inverseJoinColumns = @JoinColumn(name = "event_id")
     )
     private List<Event> attendingEvents = new ArrayList<>();
+
     @ManyToMany
     @JoinTable(
             name = "user_staffing_events",
