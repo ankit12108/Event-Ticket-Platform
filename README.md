@@ -41,8 +41,6 @@ A full-stack event management & ticketing system enabling:
 - Manual validation fallback
 - Designed for fast queue flow
 
----
-
 ## 🔗 REST API Overview (Examples)
 
 | Method | Endpoint | Purpose |
@@ -54,15 +52,12 @@ A full-stack event management & ticketing system enabling:
 | GET | `/api/v1/tickets/{ticketId}/qr-codes` | Fetch QR code |
 | POST | `/api/v1/events/{eventId}/ticket-validations` | Validate ticket at gate |
 
----
-
 ## 🚀 Getting Started
 
 ### ▶️ Run Backend
 ```bash
 mvn spring-boot:run
 ```
----
 
 ## 🛣️ Roadmap
 
@@ -74,31 +69,28 @@ mvn spring-boot:run
 | 📌 Next | Offline QR scanning |
 | 🚀 Future | Event analytics dashboard |
 
----
 ## ⭐ Appreciation
 
-| Message |
-|--------|
-| If this project helped you or inspired you, please star ⭐ the repository — it really motivates! |
-
+If this project helped you or inspired you,
+please star ⭐ the repository — it really motivates!
 ---
-## 💬 Support
 
-| Type | Where |
-|------|-------|
-| 🐞 Bug Report | GitHub Issues |
-| 💡 Feature Request | GitHub Discussions |
-| ❓ Questions | GitHub Q&A |
+## 💬 Support
+If you face issues, feel free to open:
+🐞 Bug report
+💡 Feature request
+❓ Question discussion
 
 ---
 
 ## 🤝 Contributing
 
-| Step | Action |
-|------|--------|
-| 1 | Fork the repository |
-| 2 | Create a feature branch |
-| 3 | Commit your changes |
-| 4 | Submit a Pull Request |
+🙌 Contributions welcome!
+Fork the repository
+Create a feature branch
+Commit changes
+Submit Pull Request
 
+---
+Made with ❤️ using Spring Boot + Flutter
 ---
