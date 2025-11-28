@@ -61,14 +61,8 @@ A full-stack event management & ticketing system enabling:
 ### ▶️ Run Backend
 ```bash
 mvn spring-boot:run
-
-▶️ Run Backend
-mvn spring-boot:run
-
-▶️ Run Flutter Frontend
-flutter pub get
-flutter run
---
+```
+---
 
 ## 🛣️ Roadmap
 
@@ -81,23 +75,30 @@ flutter run
 | 🚀 Future | Event analytics dashboard |
 
 ---
+## ⭐ Appreciation
 
+| Message |
+|--------|
+| If this project helped you or inspired you, please star ⭐ the repository — it really motivates! |
+
+---
+## 💬 Support
+
+| Type | Where |
+|------|-------|
+| 🐞 Bug Report | GitHub Issues |
+| 💡 Feature Request | GitHub Discussions |
+| ❓ Questions | GitHub Q&A |
+
+---
 
 ## 🤝 Contributing
-🙌 Contributions welcome!
-Fork the repository
-Create feature branch
-Commit changes
-Submit Pull Request
 
-💬 Support
+| Step | Action |
+|------|--------|
+| 1 | Fork the repository |
+| 2 | Create a feature branch |
+| 3 | Commit your changes |
+| 4 | Submit a Pull Request |
 
-If you face issues, feel free to open:
-🐞 Bug report
-💡 Feature request
-❓ Question discussion
-⭐ Appreciation
-If this project helped you or inspired you,
-please star ⭐ the repository — it really motivates!
-
-Made with ❤️ using Spring Boot + Flutter
+---
