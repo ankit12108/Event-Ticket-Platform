@@ -76,17 +76,16 @@ please star ⭐ the repository — it really motivates!
 
 ## 💬 Support
 If you face issues, feel free to open:
-. 🐞 Bug report
-.  💡 Feature request
-. ❓ Question discussion
+- 🐞 Bug report
+- 💡 Feature request
+- ❓ Question discussion
 
 ## 🤝 Contributing
-🙌 Contributions welcome!
-. Fork the repository
-.  Create a feature branch
-. Commit changes
-. Submit Pull Request
+- 🙌 Contributions welcome!
+- Fork the repository
+-  Create a feature branch
+-  ommit changes
+-  ubmit Pull Request
 
----
-Made with ❤️ using Spring Boot + Flutter
+## Made with ❤️ using Spring Boot + Flutter
 ---
